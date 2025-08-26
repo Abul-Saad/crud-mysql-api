@@ -20,7 +20,7 @@ This project includes **CRUD operations**, **authentication (JWT)**, and follows
 ## 📂 Project Structure
 
 ```bash
-📦 node-express-mysql-api
+📦 crud-mysql-api
 ├── 📁 config         # Database & environment configs
 │   └── db.js
 ├── 📁 controllers    # Business logic
